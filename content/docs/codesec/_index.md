@@ -1,7 +1,7 @@
 ---
-title: "AI code Security and Penetration Testing"
+title: "AI code Security"
 description: ""
-image: "https://armur-ai.github.io/armur-blog-aicodesec/images/aicode.jpg"
+image: "https://armur-ai.github.io/armur-blog-aicodesec/images/1.avif"
 icon: "code"
 draft: false
 ---
